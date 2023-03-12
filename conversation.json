@@ -1,0 +1,42 @@
+[
+    {
+        "time": "Fri Feb 10 12:43:07 2023",
+        "phrase": "Quem descobriu o Brasil",
+        "response": {
+            "id": 0,
+            "r": "O descobrimento do Brasil foi feito por Pedro \u00c1lvares Cabral em 1500."
+        }
+    },
+    {
+        "time": "Fri Feb 10 12:43:24 2023",
+        "phrase": "Jos\u00e9 do glutamato",
+        "response": {
+            "id": 0,
+            "r": "Desculpe, n\u00e3o entendi o que voc\u00ea quis dizer com 'Jos\u00e9 do Glutamato'"
+        }
+    },
+    {
+        "time": "Fri Feb 10 12:43:42 2023",
+        "phrase": "como \u00e9 usado o glutamato monoss\u00f3dico",
+        "response": {
+            "id": 0,
+            "r": "O glutamato monoss\u00f3dico \u00e9 usado principalmente como um sabor intensificador em alimentos e bebidas. \u00c9 muito comum nos restaurantes chineses, por exemplo."
+        }
+    },
+    {
+        "time": "Fri Feb 10 12:44:04 2023",
+        "phrase": "ele \u00e9 usado em qu\u00ea da comida chinesa",
+        "response": {
+            "id": 0,
+            "r": "O glutamato monoss\u00f3dico \u00e9 usado como um sabor intensificador em alimentos chineses, como pratos de frango com alho, por exemplo."
+        }
+    },
+    {
+        "time": "Fri Feb 10 12:45:00 2023",
+        "phrase": "Quantos anos voc\u00ea tem",
+        "response": {
+            "id": 0,
+            "r": "Eu sou a Faire, tenho 17 anos!"
+        }
+    }
+]
